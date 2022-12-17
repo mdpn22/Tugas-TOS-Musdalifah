@@ -6,3 +6,5 @@ Tutorial membeli tiket nonton di XX1
 - Pilih tempat duduk yang kita pilih.
 - Checkout tiketnya.
 - Konfirmasi pembayaran.
+- Screenshoot qr code tiket yang sudah di pesan.
+- Selesai.
