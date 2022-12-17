@@ -1,0 +1,9 @@
+Tutorial membeli tiket nonton di XX1
+- Download aplikasi XX1 di google playstore.
+- Login di laman aplikasi.
+- Isi biodata yang di minta.
+- Pilih film yang akan kita nonton.
+- Pilih tempat duduk yang kita pilih.
+- Checkout tiketnya.
+- Konfirmasi pembayaran.
+- Screenshoot qr code tiketnya.
